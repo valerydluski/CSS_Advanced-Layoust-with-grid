@@ -23,3 +23,8 @@
 	grid-column: 1/4;
 	grid-row: 4;
 }
+
+.sidebar {
+	grid-column: 2/4;
+	grid-row: 3/4;
+}
