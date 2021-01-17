@@ -1,0 +1,9 @@
+body {
+  font-family: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+li a {
+  color: black;
+}
